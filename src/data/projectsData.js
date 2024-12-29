@@ -1,10 +1,14 @@
 
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
+// import one from '../assets/svg/projects/one.svg'
+// import two from '../assets/svg/projects/two.svg'
+// import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
+
+import one from '../assets/svg/projects/one.png'
+import two from '../assets/svg/projects/two.png'
+import three from '../assets/svg/projects/three.png'
 
 
 export const projectsData = [
@@ -30,7 +34,7 @@ export const projectsData = [
         id: 3,
         projectName: 'Breast Cancer Detection(Hybrid CNN and ViT) ',
         projectDesc: 'Developed a hybrid model using CNNs (Inception-V3, ResNet-50) and Vision Transformers for IDC detection, trained on a large dataset for high accuracy.',
-        tags: ['Python','ResNet50', 'InceptionV3', 'Vision Transformers'],
+        tags: ['Python', 'ResNet50', 'InceptionV3', 'Vision Transformers'],
         //code: 'https://github.com/Hritika-Ratnam/Breast_Cancer_Detection',
         //demo: '',
         image: three
