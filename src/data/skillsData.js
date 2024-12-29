@@ -11,8 +11,6 @@ export const skillsData = [
     'Python',
     'MERN Stack',
     'GitHub',
-    'VS Code',
-    'JWT',
     'C/C++',
     'AI/ML'
 ]

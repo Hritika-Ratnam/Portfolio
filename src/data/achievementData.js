@@ -7,15 +7,15 @@ export const achievementData = {
             details: 'Led IoT workshops and events for students, providing hands-on experience and fostering innovation through TESLA, IIIT Allahabad.',
             date: '2023 - 2024',
             field: 'Leadership & IoT',
-            image: 'https://ibb.co/5Gq6JZ4'
+            image: '/myasset/achivements/tesla.png'
         },
         {
             id: 2,
             title: 'SheHacks’22 - 4th Rank',
             details: 'Achieved 4th rank in SheHacks’22, a hackathon that empowers women and femme non-binary individuals in tech at IIIT Allahabad.',
-             date: 'Apr 2022',
+            date: 'Apr 2022',
             field: 'Women in Tech',
-            image: 'https://images.app.goo.gl/sZhpM4jj2J9gzPEJ6'
+            image: '/myasset/achivements/shehack.png'
         },
         {
             id: 3,
@@ -23,7 +23,7 @@ export const achievementData = {
             details: 'Secured 3rd rank in OOC 2022, a design hackathon blending creativity with practical solutions at IIIT Allahabad.',
             date: 'May 2023',
             field: 'Design Hackathon',
-            image: 'https://images.app.goo.gl/K1nx1q7L6gH7cPfKA'
+            image: '/myasset/achivements/ooc.png'
         }
     ]
 }
